@@ -87,8 +87,6 @@ lib.mdNameGetErrorCode.argtypes = [c_void_p]
 lib.mdNameGetErrorCode.restype = c_char_p
 lib.mdNameGetChangeCode.argtypes = [c_void_p]
 lib.mdNameGetChangeCode.restype = c_char_p
-# lib.mdNameGetDebugInfo.argtypes = [c_void_p, c_char_p]
-# lib.mdNameGetDebugInfo.restype = c_char_p
 lib.mdNameGetResults.argtypes = [c_void_p]
 lib.mdNameGetResults.restype = c_char_p
 lib.mdNameGetResultCodeDescription.argtypes = [c_void_p, c_char_p, c_int]
@@ -285,9 +283,6 @@ class mdName(object):
 
 	def GetChangeCode(self):
 		return lib.mdNameGetChangeCode(self.I).decode('utf-8')
-
-	def GetDebugInfo(self, p1):
-		return lib.mdNameGetDebugInfo(self.I, p1.encode('utf-8')).decode('utf-8')
 
 	def GetResults(self):
 		return lib.mdNameGetResults(self.I).decode('utf-8')
