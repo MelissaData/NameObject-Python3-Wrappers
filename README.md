@@ -13,7 +13,7 @@ For further details, please visit: https://wiki.melissadata.com/images/0/0e/DQT_
 ## Tested Environments
 
 - Windows 64-bit Python 3.8.7
-- Melissa Name Object for 2023-08
+- Melissa Name Object for 2023-09
 
 ## Getting Started
 
