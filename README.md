@@ -12,8 +12,10 @@ For further details, please visit: https://wiki.melissadata.com/images/0/0e/DQT_
 
 ## Tested Environments
 
-- Windows 64-bit Python 3.8.7
+- Windows 10 64-bit Python 3.8.7, Powershell 5.1
+- Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
 - Melissa Name Object for 2024-01
+- Wrapper file(s) have not changed since 2023-06
 
 ## Getting Started
 
@@ -34,7 +36,7 @@ import mdName_pythoncode
 ## See also
 
 - [Melissa - Name Object Windows Python3](https://github.com/MelissaData/NameObject-Python3)
-- [Melissa - Name Object Linux Python3](https://github.com/MelissaData/NameObject-Python3)
+- [Melissa - Name Object Linux Python3](https://github.com/MelissaData/NameObject-Python3-Linux)
     
 ## Contact Us
 
