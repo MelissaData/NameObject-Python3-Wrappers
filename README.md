@@ -14,7 +14,7 @@ For further details, please visit: https://wiki.melissadata.com/images/0/0e/DQT_
 
 - Windows 10 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa Name Object for 2024-01
+- Melissa Name Object for 2024-02
 - Wrapper file(s) have not changed since 2023-06
 
 ## Getting Started
