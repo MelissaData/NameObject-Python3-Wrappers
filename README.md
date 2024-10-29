@@ -14,15 +14,15 @@ For further details, please visit: https://wiki.melissadata.com/images/0/0e/DQT_
 
 - Windows 10 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa Name Object for 2024-09
+- Melissa Name Object for 2024-10
 - Wrapper file(s) have not changed since 2023-06
 
 ## Getting Started
 
 ### Download this project
 ```
-$ git clone https://github.com/MelissaData/NameObject-Python3-Wrappers
-$ cd NameObject-Python3-Wrappers
+git clone https://github.com/MelissaData/NameObject-Python3-Wrappers
+cd NameObject-Python3-Wrappers
 ```
 
 ### Copy wrappers to your project folder
