@@ -6,23 +6,23 @@ This is the code for you to run Name Object in Python3.
     
 Please feel free to copy or embed this code to your own project. Happy coding!
 
-For latest Melissa Name Object release notes, please visit: https://releasenotes.melissa.com/on-premise-api/name-object/
+To view the latest Melissa Name Object release notes or to subscribe to product notifications, please visit: https://releasenotes.melissa.com/on-premise-api/name-object/
 
 For further details, please visit: https://wiki.melissadata.com/images/0/0e/DQT_API_Name_RG.pdf
 
 ## Tested Environments
 
-- Windows 10 64-bit Python 3.8.7, Powershell 5.1
+- Windows 11 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa Name Object for 2026-01
+- Melissa Name Object for 2026-02
 - Wrapper file(s) have not changed since 2025-04
 
 ## Getting Started
 
 ### Download this project
 ```
-git clone https://github.com/MelissaData/NameObject-Python3-Wrappers
-cd NameObject-Python3-Wrappers
+git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/python3/melissanameobjectpython3wrappers
+cd melissanameobjectpython3wrappers
 ```
 
 ### Copy wrappers to your project folder
